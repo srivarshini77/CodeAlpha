@@ -1,0 +1,13 @@
+:User  hi | Chatbot: Hello! How can I assist you today?
+:User  tell me a joke | Chatbot: Why did the scarecrow win an award? Because he was outstanding in his field!
+:User  what is the climate now? | Chatbot: I'm not sure I understand. Can you rephrase that?
+:User  hi | Chatbot: Hello! How can I assist you today?
+:User  can you help me? | Chatbot: I can help you with general questions. Just ask!
+:User  what is the wheather like? | Chatbot: I'm not sure I understand. Can you rephrase that?
+:User  tell me a joke | Chatbot: Why did the scarecrow win an award? Because he was outstanding in his field!
+User  exited the chat.
+:User  hi | Chatbot: Hello! How can I assist you today?
+:User  tell me a joke? | Chatbot: Why did the scarecrow win an award? Because he was outstanding in his field!
+:User  what is the weather like? | Chatbot: I'm sorry, I cannot provide weather information at the moment.
+:User  how are u? | Chatbot: I'm not sure I understand. Can you rephrase that?
+User  exited the chat.
